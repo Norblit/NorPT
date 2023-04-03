@@ -19,5 +19,6 @@ NorPT is an integration between OpenAI's ChatGPT and Discord's bot system. The a
  - [Discord](https://discord.com/developers/docs/intro)
  - [Oracle Cloud](https://www.oracle.com/cloud/compute/)
  - [OpenAI](https://platform.openai.com/docs/introduction)
+ - [MusicBot](https://github.com/jagrosh/MusicBot)
 
 
